@@ -10,5 +10,5 @@ var playlist =
   }
   
   function removeFromPlaylist(playlist, artistName) {
-    return 
+    delete playlist.
   }
