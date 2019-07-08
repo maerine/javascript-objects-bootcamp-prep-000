@@ -5,4 +5,6 @@ var playlist =
     ["The Who"]: "Pinball Wizard"
   };
   
-  
+  function updatePlaylist(playlist, artistName, songTitle) {
+    
+  }
